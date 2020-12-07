@@ -6,11 +6,11 @@ This quick-and-dirty tutorial is intended as an introduction to [bash](https://w
 
 In order to follow the tutorial, you will require a personal computer. Depending on your operative system, you will require **one** of the following: 
 
-  * **Windows machine**. You have to download both [[http://www.9bis.net/kitty/#!index.md|KiTTy]] and [[http://www.9bis.net/kitty/files/kscp.exe|kscp]]. You can find a zip file with both {{ :tutorials:b4b:b4b_essentials.zip|here}}.
-  * **Mac**. Nothing extra. You are ready to go.
-  * **Linux**. Nothing extra. You are ready to go.
+  * **Windows machine**. You have to download both [KiTTy](http://www.9bis.net/kitty/#!index.md) and [kscp](http://www.9bis.net/kitty/files/kscp.exe)
+  * **Mac**. Nothing. You are ready to go.
+  * **Linux**. Nothing. You are ready to go.
 
-===== Resources =====
+## Resources
 
 We'll use a small subset of the English-Italian part of the Europarl parallel corpus.
 
