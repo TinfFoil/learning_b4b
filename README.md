@@ -6,15 +6,13 @@ This quick-and-dirty tutorial is intended as an introduction to [bash](https://w
 
 In order to follow the tutorial, you will require a personal computer. Depending on your operative system, you will require **one** of the following: 
 
-  * **Windows machine**. You have to download both [KiTTy](http://www.9bis.net/kitty/#!index.md) and [kscp](http://www.9bis.net/kitty/files/kscp.exe)
+  * **Windows machine**. You have to download both [KiTTy](http://www.9bis.net/kitty/#!index.md) and [kscp](http://www.9bis.net/kitty/files/kscp.exe). Both area available in this project as a single zip file.
   * **Mac**. Nothing. You are ready to go.
   * **Linux**. Nothing. You are ready to go.
 
 ## Resources
 
-We'll use a small subset of the English-Italian part of the Europarl parallel corpus.
-
-Download the two files here: {{:tutorials:b4b:en.zip|English}} and {{:tutorials:b4b:it.zip|Italian}}
+We will use a small subset of the English-Italian part of the [Europarl parallel corpus](https://www.statmt.org/europarl/), which are available in this project as en.zip and it.zip. 
 
 ===== Why is bash relevant? =====
 
