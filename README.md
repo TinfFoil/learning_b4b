@@ -4,9 +4,9 @@ This quick-and-dirty tutorial is intended as an introduction to [bash](https://w
 
 ## Requirements 
 
-In order to follow the tutorial, you will require a personal computer. Depending on your operative system, you will require **one** of the following: 
+In order to follow the tutorial, you will require a personal computer. Depending on your operative system, you will need **one** of the following: 
 
-  * **Windows machine**. You have to download both [KiTTy](http://www.9bis.net/kitty/#!index.md) and [kscp](http://www.9bis.net/kitty/files/kscp.exe); both area available in this project as a single zip file
+  * **Windows machine**. You have to download both [KiTTy](http://www.9bis.net/kitty/#!index.md) and [kscp](http://www.9bis.net/kitty/files/kscp.exe); both are available in this project, as a single zip file. [Powershell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US) should do the role of KiTTy.
   * **Mac**. Nothing; you are ready to go
   * **Linux**. Nothing; you are ready to go
 
@@ -19,6 +19,7 @@ We will use a small subset of the English-Italian part of the [Europarl parallel
   * Quick and easy text and data processing
   * The right way to interact with real computing software
   * One gate to Python and deep learning
+  * The way to launch batch jobs in an HPC environment (e.g., usin slurm)
   
 ## Hands on Bash 
 
@@ -38,7 +39,7 @@ Commands: `cat`, `more`, `less`, `most`, `wc`, `nano`, `head`, `shuf`
 
 ### Grabbing information in a file from the command line
  
-Until now, the kinds of operation you have performed are quite basic and not too different from what you can do with standard tools. Now we start to do interesting stuff. In this section you will learn how to sort, filter, modify, and combine the information in a file
+Until now, the kind of operations you have performed are quite basic and not too different from what you can do with standard tools. Now we start to do interesting stuff. In this section you will learn how to sort, filter, modify, and combine the information in a file
 
 Commands: `sort`, `grep`, `sed`, `column`
 
